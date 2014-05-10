@@ -1,0 +1,1 @@
+Welcome to the Shaverstone Project. First time using Git on a project :) 
