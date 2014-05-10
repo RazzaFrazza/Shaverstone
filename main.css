@@ -1,36 +1,39 @@
-*, html {
+html, body {
 	margin:0px;
-		padding:0px;
-	   }
+	padding:0px;
+}
+
 logo{
     display:block;
-		background-color:red;
-			height:auto;
-				width:auto;
-					padding:15px 15px 15px 15px; /*top right bottom left*/
-						text-align:center; 
-							font-size:50px;
-								margin:0px;
-	}
-navigation{
+	background-color:red;
+	height:auto;
+	width:auto;
+	padding:15px 15px 15px 15px; /*top right bottom left*/
+	text-align:center; 
+	font-size:50px;
+	margin:0px;
+}
+
+navigation {
 	display:block;
-		background-color:black;
-			color:red;
-				height:auto;
-					width:auto;
-						padding:15px 15px 15px 15px;
-							text-align:center;  
-								font-size:20px; 
-										margin:0px;
-	    }
+	background-color:black;
+	color:red;
+	height:auto;
+	width:auto;
+	padding:15px 15px 15px 15px;
+	text-align:center;  
+	font-size:20px; 
+	margin:0px;
+}
+
 customcontent{
 	display:block;
-		background-color:red;
-			color:black;
-				height:auto;
-					width:auto;
-						padding:15px 15px 1500px 15px;
-							text-align:center;
-								font-size:50px;
-									margin:0px;
-		    }
+	background-color:red;
+	color:black;
+	height:auto;
+	width:auto;
+	padding:15px 15px 1500px 15px;
+	text-align:center;
+	font-size:50px;
+	margin:0px;
+}
