@@ -15,7 +15,6 @@ Logo{
 navigation{
 	display:block;
 		background-color:black;
-			background-size:contain;
 				height:auto;
 					width:auto;
 						padding:15px 15px 15px 15px;
@@ -24,19 +23,14 @@ navigation{
 									color:red;
 										margin:0px;
 	}
-body{
-	margin:0px 0px 0px 0px;
-		padding:0px 0px 0px 0px;
-	}
 customcontent{
 	display:block;
 		background-color:red;
-			padding:15px 15px 1500px 15px;
-				font-size:50px;
-					color:black;
-						height:auto;
-								width:auto;
-						text-align:center;
+			height:auto;
+				width:auto;
+					padding:15px 15px 1500px 15px;
+						font-size:50px;
+							color:black;
+								text-align:center;
 									margin:0px;
-										background-size:contain;
 		}
