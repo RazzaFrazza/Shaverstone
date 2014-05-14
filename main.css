@@ -3,6 +3,8 @@ html, body {
 	padding:0px;
 	   }
 #logo{
+	font-family:"Centaur";
+	color: #8bae22;
     display:block;
 	background-color:white;
 	height:auto;
@@ -14,7 +16,7 @@ html, body {
 	}
 #navigation{
 	display:block;
-	background-color:black;
+	background-color:transparent;
 	color:red;
 	height:auto;
 	width:auto;
