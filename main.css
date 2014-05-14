@@ -2,7 +2,7 @@ html, body {
 	margin:0px;
 	padding:0px;
 	   }
-.logo{
+#logo{
     display:block;
 	background-color:white;
 	height:auto;
@@ -12,7 +12,7 @@ html, body {
 	font-size:50px;
 	margin:0px;
 	}
-.navigation{
+#navigation{
 	display:block;
 	background-color:black;
 	color:red;
@@ -23,7 +23,7 @@ html, body {
 	font-size:20px; 
 	margin:0px;
 	    }
-.customcontent{
+#customcontent{
 	display:block;
 	background-color:white;
 	color:black;
